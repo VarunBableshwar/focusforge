@@ -46,6 +46,7 @@ FocusForge is a full-stack productivity and task management web application desi
 ### Database
 
 * MongoDB
+* Mongoose
 
 ### Version Control
 
